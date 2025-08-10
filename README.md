@@ -1,10 +1,3 @@
-### 🏗️ Current projects
-
-|     Tech     | Status |                                                          What                                                          |
-| :----------: | :----: | :--------------------------------------------------------------------------------------------------------------------: |
-| React Native |   🚀   | **[Expensio - finance tracker](https://github.com/rm-reins/react-native-expensio)**|
-
-
 ## 💻 Tech Stack:
 
 | Category               | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
